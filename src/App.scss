@@ -17,6 +17,10 @@ html {
 
 .title-container {
 	height: 50px;
+	outline-color: black;
+	outline-width: 50px;
+	font-size: 1.7em;
+
 }
 
 .title-styles {
@@ -38,7 +42,7 @@ header {
 	-webkit-background-size: cover;
 	text-align: center;
 	overflow: hidden;
-	background-color: #e9d5a1;
+	background-color: #365b11;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -119,6 +123,14 @@ header h1 {
 	display: none;
 }
 
+header{
+	height: 400px;
+}
+
+#home{
+	height: 400px;
+}
+
 #about {
 	background: #fff;
 	overflow: hidden;
@@ -131,6 +143,10 @@ header h1 {
 	letter-spacing: 3px;
 	color: black;
 	text-align: center;
+}
+
+.text-black{
+	color: white;
 }
 
 .foto img {
@@ -231,7 +247,7 @@ header h1 {
 }
 
 #resume {
-	background: #efe1bd;
+	background: #255957;
 }
 
 .experience-icon {
@@ -353,7 +369,7 @@ header h1 {
 }
 
 #portfolio {
-	background: #efe1bd;
+	background: #437c90;
 	padding-bottom: 5%;
 }
 
@@ -437,4 +453,17 @@ footer a:focus {
 .social-links {
 	margin-top: 10px;
 	font-size: 22px;
+}
+
+.col-md-12 .top-banner{
+	background-image: url(./images/1400x422.jpg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: center;
+	size: 422 1400;
+	color: white;
+}
+
+.mb-0{
+	color: white;
 }

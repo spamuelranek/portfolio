@@ -67,7 +67,7 @@ class Header extends Component {
               uncheckedIcon={
                 <span
                   className="iconify"
-                  data-icon="twemoji:owl"
+                  data-icon="twemoji:bat"
                   data-inline="false"
                   style={{
                     display: "block",
@@ -82,7 +82,7 @@ class Header extends Component {
               checkedIcon={
                 <span
                   className="iconify"
-                  data-icon="noto-v1:sun-with-face"
+                  data-icon="noto-v1:sun"
                   data-inline="false"
                   style={{
                     display: "block",
@@ -98,9 +98,9 @@ class Header extends Component {
             />
           </Nav.Item>
         </Nav>
-        <div className="row aligner" style={{height: '100%'}}>
+        <div className="row aligner" style={{height: '400px'}}>
           <div className="col-md-12">
-            <div>
+            <div className="top-banner">
               <span className="iconify header-icon" data-icon="la:laptop-code" data-inline="false"></span>
               <br/>
               <h1 className="mb-0">

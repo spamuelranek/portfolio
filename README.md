@@ -13,12 +13,23 @@
 - Finish Time: 12:00pm 
 - Actual time needed to complete: 36 mins
 
-### Feature #23 Projects Section:
+### Feature #3 Projects Section:
 - Estimate of time needed to complete: 1 hr
 - Start time: 12:02pm
 - Finish Time: 12:40pm 
 - Actual time needed to complete: 38 mins
 
+### Feature #4 Projects Section:
+- Estimate of time needed to complete: 40mins
+- Start time: 12:42pm
+- Finish Time: 1:16pm
+- Actual time needed to complete: 34 mins
+
+### Feature #5 Personalize:
+- Estimate of time needed to complete: 30mins
+- Start time: 1:18pm
+- Finish Time: 2:12pm
+- Actual time needed to complete: 54 mins
 
 # Modify this portfolio
 
