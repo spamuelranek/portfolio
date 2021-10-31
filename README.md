@@ -15,9 +15,9 @@
 
 ### Feature #23 Projects Section:
 - Estimate of time needed to complete: 1 hr
-- Start time: 12:02am
-- Finish Time: 12:00pm 
-- Actual time needed to complete: 36 mins
+- Start time: 12:02pm
+- Finish Time: 12:40pm 
+- Actual time needed to complete: 38 mins
 
 
 # Modify this portfolio
