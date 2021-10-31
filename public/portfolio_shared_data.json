@@ -34,6 +34,11 @@
           "level": "70"
         },
         {
+          "name": "React",
+          "class": "devicon-react-plain",
+          "level": "85"
+        },        
+        {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
