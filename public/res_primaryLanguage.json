@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Welcome to my Portfolio",
+      "description": "I am currently a student at Code Fellows, working towards a Python full-stack coding certification.I am proficient at forming teams and motivating these groups towards an end. I help identify the bigger picture for those I work with. I understand teams work better when they can contextualize the bigger picture. I know I work best as part of something larger than myself. My abilities to switch tasks quickly allows for individuals to work towards their own goals while I can stay connected to the overall task. I am focused on not over-working my team. I want to work with happy people and I think not-work is an important aspect of that. I strive for clear rules on time-lines and expectations. I hope to learn not only the technical aspects of coding but the ins and the outs of an effective coding team. So, my teams can perform even better in the future.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
